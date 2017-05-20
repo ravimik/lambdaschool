@@ -1,0 +1,45 @@
+body {
+	max-width: 600px;
+}
+
+.red {
+	background-color: red;
+	position: relative;
+	height: 100px;
+
+}
+
+.center {
+	width: 600px;
+	height: 400px;
+}
+
+.blue {
+	background-color: blue;
+	width: 200px;
+	height: 400px;
+	float: left;
+	
+}
+
+.purple {
+    background-color: purple;
+    width: 200px;
+	height: 400px;
+	float: left;
+}
+.yellow {
+    background-color: yellow;
+    width: 200px;
+	height: 400px;
+	float: left;
+}
+
+
+
+.green {
+	background-color: green;
+	height: 100px;
+	width: 600px;
+	
+}
